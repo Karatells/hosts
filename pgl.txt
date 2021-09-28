@@ -1397,6 +1397,7 @@
 127.0.0.1 cl0udh0st1ng.com
 127.0.0.1 claria.com
 127.0.0.1 clevernt.com
+127.0.0.1 cliand.com
 127.0.0.1 click.a-ads.com
 127.0.0.1 click.airmalta-mail.com
 127.0.0.1 click.bkdpt.com
@@ -2912,6 +2913,7 @@
 127.0.0.1 s1-adfly.com
 127.0.0.1 s20dh7e9dh.com
 127.0.0.1 s2d6.com
+127.0.0.1 s2strk.info
 127.0.0.1 sa.api.intl.miui.com
 127.0.0.1 sabio.us
 127.0.0.1 sageanalyst.net
