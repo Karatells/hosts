@@ -836,6 +836,8 @@
 127.0.0.1 adservice.google.com.mt
 127.0.0.1 adserving.unibet.com
 127.0.0.1 adservingfront.com
+127.0.0.1 adservrs.com
+127.0.0.1 adservrs.com.edgekey.net
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
@@ -1678,6 +1680,7 @@
 127.0.0.1 e-m.fr
 127.0.0.1 e-planning.net
 127.0.0.1 e.kde.cz
+127.0.0.1 e37364.dscd.akamaiedge.net
 127.0.0.1 eadexchange.com
 127.0.0.1 earthquakescarf.com
 127.0.0.1 earthycopy.com
