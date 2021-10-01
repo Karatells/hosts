@@ -896,6 +896,7 @@
 127.0.0.1 adtology.com
 127.0.0.1 adtoma.com
 127.0.0.1 adtrace.org
+127.0.0.1 adtraction.com
 127.0.0.1 adtrade.net
 127.0.0.1 adtriplex.com
 127.0.0.1 adultadvertising.com
@@ -1021,7 +1022,6 @@
 127.0.0.1 americash.com
 127.0.0.1 amplitude.com
 127.0.0.1 amung.us
-127.0.0.1 analyticacdn.com
 127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 analytics.adpost.org
 127.0.0.1 analytics.algoepico.net
@@ -1304,6 +1304,7 @@
 127.0.0.1 braincash.com
 127.0.0.1 brand-display.com
 127.0.0.1 brandreachsys.com
+127.0.0.1 breakableinsurance.com
 127.0.0.1 breaktime.com.tw
 127.0.0.1 brealtime.com
 127.0.0.1 bridgetrack.com
@@ -2659,6 +2660,7 @@
 127.0.0.1 pleasantpump.com
 127.0.0.1 plista.com
 127.0.0.1 plotrabbit.com
+127.0.0.1 ployea.com
 127.0.0.1 pluckypocket.com
 127.0.0.1 plugrush.com
 127.0.0.1 pocketmath.com
@@ -2669,6 +2671,7 @@
 127.0.0.1 popmyads.com
 127.0.0.1 popub.com
 127.0.0.1 popunder.ru
+127.0.0.1 popunhot1.blogspot.com
 127.0.0.1 popup.msn.com
 127.0.0.1 popupmoney.com
 127.0.0.1 popupnation.com
@@ -2737,6 +2740,7 @@
 127.0.0.1 pubmatic.com
 127.0.0.1 pubmine.com
 127.0.0.1 pubnative.net
+127.0.0.1 pubwes.com
 127.0.0.1 puffyloss.com
 127.0.0.1 puffypaste.com
 127.0.0.1 puffypull.com
@@ -3064,6 +3068,7 @@
 127.0.0.1 specificpop.com
 127.0.0.1 speedomizer.com
 127.0.0.1 speedshiftmedia.com
+127.0.0.1 speop.com
 127.0.0.1 spezialreporte.de
 127.0.0.1 spidersboats.com
 127.0.0.1 spiffymachine.com
@@ -3129,7 +3134,6 @@
 127.0.0.1 stats.pusher.com
 127.0.0.1 stats.rdphv.net
 127.0.0.1 stats.self.com
-127.0.0.1 stats.sharksice.timetoscore.com
 127.0.0.1 stats.stb-ottow.de
 127.0.0.1 stats.townnews.com
 127.0.0.1 stats.wordpress.com
