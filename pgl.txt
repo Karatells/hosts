@@ -493,7 +493,6 @@
 127.0.0.1 ads.gaming-universe.de
 127.0.0.1 ads.gaming1.com
 127.0.0.1 ads.gaypoint.hu
-127.0.0.1 ads.geekswithblogs.net
 127.0.0.1 ads.getlucky.com
 127.0.0.1 ads.gld.dk
 127.0.0.1 ads.gmodules.com
@@ -814,7 +813,6 @@
 127.0.0.1 adserver.sanomawsoy.fi
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 adserver.scr.sk
-127.0.0.1 adserver.sharewareonline.com
 127.0.0.1 adserver.smgfiles.com
 127.0.0.1 adserver.theonering.net
 127.0.0.1 adserver.trojaner-info.de
@@ -1633,7 +1631,6 @@
 127.0.0.1 directaclick.com
 127.0.0.1 directivepub.com
 127.0.0.1 directleads.com
-127.0.0.1 directorym.com
 127.0.0.1 directtrack.com
 127.0.0.1 discountclick.com
 127.0.0.1 discreetfield.com
@@ -1683,6 +1680,7 @@
 127.0.0.1 e.kde.cz
 127.0.0.1 e37364.dscd.akamaiedge.net
 127.0.0.1 eadexchange.com
+127.0.0.1 eaesie.com
 127.0.0.1 earthquakescarf.com
 127.0.0.1 earthycopy.com
 127.0.0.1 eas.almamedia.fi
@@ -2247,6 +2245,7 @@
 127.0.0.1 look.ichlnk.com
 127.0.0.1 look.opskln.com
 127.0.0.1 look.udncoeln.com
+127.0.0.1 look.ufinkln.com
 127.0.0.1 loopme.com
 127.0.0.1 lop.com
 127.0.0.1 loudlunch.com
