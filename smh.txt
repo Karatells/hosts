@@ -8277,7 +8277,6 @@
 127.0.0.1 anepszava.com
 127.0.0.1 anetit.tradedoubler.com
 127.0.0.1 angeldonationblog.com
-127.0.0.1 angelfire.com
 127.0.0.1 ankieta-online.pl
 127.0.0.1 annuaire-autosurf.com
 127.0.0.1 anonymous-net.com
@@ -16949,7 +16948,6 @@
 127.0.0.1 ec.atdmt.com
 127.0.0.1 feedback.microsoft-hohm.com
 127.0.0.1 flex.msn.com
-127.0.0.1 g.msn.com
 127.0.0.1 h1.msn.com
 127.0.0.1 lb1.www.ms.akadns.net
 127.0.0.1 live.rads.msn.com

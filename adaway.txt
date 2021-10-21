@@ -1724,6 +1724,7 @@
 127.0.0.1 brainient.com
 127.0.0.1 tag.brainient.com
 127.0.0.1 client-analytics.braintreegateway.com
+127.0.0.1 adservices.brandcdn.com
 127.0.0.1 branch.io
 127.0.0.1 api.branch.io
 127.0.0.1 api2.branch.io
@@ -5855,6 +5856,7 @@
 127.0.0.1 playhaven.com
 127.0.0.1 stats.playrix.com
 127.0.0.1 sdk.playtem.com
+127.0.0.1 service-ad-impression-proxy.clusters.pluto.tv
 127.0.0.1 iabusprivacy.pmc.com
 127.0.0.1 analytics.po.st
 127.0.0.1 i.po.st
