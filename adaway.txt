@@ -3571,7 +3571,6 @@
 127.0.0.1 iclickyou.com
 127.0.0.1 ads.icloseli.com
 127.0.0.1 api.icloseli.com
-127.0.0.1 esd.icloseli.com
 127.0.0.1 relaycn.icloseli.com
 127.0.0.1 metrics.icloud.com
 127.0.0.1 id1.cn
@@ -4199,7 +4198,6 @@
 127.0.0.1 rp.liadm.com
 127.0.0.1 rp4.liadm.com
 127.0.0.1 snap.licdn.com
-127.0.0.1 licensebuttons.net
 127.0.0.1 adexp.liftoff.io
 127.0.0.1 build-cdn.liftoff.io
 127.0.0.1 cdn.liftoff.io
@@ -7986,6 +7984,7 @@
 127.0.0.1 share.yandex.ru
 127.0.0.1 yandexadexchange.net
 127.0.0.1 mobile.yandexadexchange.net
+127.0.0.1 mobi.yanosik.pl
 127.0.0.1 yemonisoni.com
 127.0.0.1 bi.yeshen.com
 127.0.0.1 ppsdk.yhmapi.com
